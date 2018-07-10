@@ -18,4 +18,10 @@
   <build>
     <sourceDirectory>src/main/java</sourceDirectory>
   </build>
+  <dependencies>
+    <dependency>
+      <groupId>commons-io</groupId>
+      <artifactId>commons-io</artifactId>
+    </dependency>
+  </dependencies>
 </project>
