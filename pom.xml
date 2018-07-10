@@ -4,14 +4,14 @@
     <repository>
       <id>sourcegraph</id>
       <name>Sourcegraph</name>
-      <url>https://dl.bintray.com/sourcegraph/simple</url>
+      <url>https://mymavenrepo.com/repo/kTGMRLzqceceXVMKpm1g/</url>
       <layout>default</layout>
     </repository>
   </repositories>
   <parent>
       <groupId>com.sourcegraph</groupId>
       <artifactId>project-standalone-parent</artifactId>
-      <version>1.0.1</version>
+      <version>1.0.3</version>
   </parent>
   <artifactId>child</artifactId>
   <version>1.0.0-SNAPSHOT</version>
