@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <repositories>
     <repository>
-      <id>sourcegraph</id>
+      <id>my-maven-repo</id>
       <name>Sourcegraph</name>
       <url>https://mymavenrepo.com/repo/kTGMRLzqceceXVMKpm1g/</url>
       <layout>default</layout>
